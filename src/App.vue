@@ -30,3 +30,5 @@ export default {
 git clone url(http地址)
 git status
 git add .
+git commit -m '初始化项目'//提交到本地
+git push//提交到GitHub
